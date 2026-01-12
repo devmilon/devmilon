@@ -1,14 +1,14 @@
 # Hi there 👋
-https://media.licdn.com/dms/image/v2/D5616AQE2BV09D9P3Aw/profile-displaybackgroundimage-shrink_350_1400/B56ZuzSGkgHkAc-/0/1768239427883?e=1769644800&v=beta&t=6REqvE6ZBKR8Y_rZhfsYP-Qnq8gUi7P9DGPBUiGXkbE
+<div align="center" id="top">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQE2BV09D9P3Aw/profile-displaybackgroundimage-shrink_350_1400/B56ZuzSGkgHkAc-/0/1768239427883?e=1769644800&v=beta&t=6REqvE6ZBKR8Y_rZhfsYP-Qnq8gUi7P9DGPBUiGXkbE" width="900" alt="Profile Readme Generator" />
+
+  <a href="https://profile-readme-generator.com">Demo</a>
+</div>
 
 **devmilon/devmilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
 
 <div align="center">
   <h1>Profile Readme Generator</h1>
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+    <img src=""/>
   </a>
 
   <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
