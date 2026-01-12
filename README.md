@@ -66,7 +66,7 @@ Are you tired of manually editing your GitHub profile or missing out on the amaz
 https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
 
 ## :rocket: Main Technologies ##
-##
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -79,7 +79,6 @@ https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-##
 
 <details>
   <summary>See more</summary>
