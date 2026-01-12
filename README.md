@@ -80,12 +80,7 @@ Are you tired of manually editing your GitHub profile or missing out on the amaz
 ## :checkered_flag: Starting ##
 
 
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :video_game: Scripts
-
+## :video_game: Scripts ##
 
 
 ## :memo: License ##
