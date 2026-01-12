@@ -1,6 +1,5 @@
-# Hi there 👋
 <div align="center" id="top">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQE2BV09D9P3Aw/profile-displaybackgroundimage-shrink_350_1400/B56ZuzSGkgHkAc-/0/1768239427883?e=1769644800&v=beta&t=6REqvE6ZBKR8Y_rZhfsYP-Qnq8gUi7P9DGPBUiGXkbE" width="900" alt="Profile Readme Generator" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQE2BV09D9P3Aw/profile-displaybackgroundimage-shrink_350_1400/B56ZuzSGkgHkAc-/0/1768239427883?e=1769644800&v=beta&t=6REqvE6ZBKR8Y_rZhfsYP-Qnq8gUi7P9DGPBUiGXkbE" width="1000" alt="Profile Readme Generator" />
 
   <a href="https://profile-readme-generator.com">Demo</a>
 </div>
