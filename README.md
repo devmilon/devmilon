@@ -50,7 +50,7 @@ Are you tired of manually editing your GitHub profile or missing out on the amaz
 
 ###
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Connect with Me ##
 
 ###
 
@@ -64,10 +64,10 @@ Are you tired of manually editing your GitHub profile or missing out on the amaz
 ###
 
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Frontend ##
 
 
-## :video_game: Scripts ##
+## :video_game: Backend ##
 
 
 ## :memo: License ##
