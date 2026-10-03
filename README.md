@@ -1,88 +1,80 @@
-<div align="center" id="top">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQE2BV09D9P3Aw/profile-displaybackgroundimage-shrink_350_1400/B56ZuzSGkgHkAc-/0/1768239427883?e=1769644800&v=beta&t=6REqvE6ZBKR8Y_rZhfsYP-Qnq8gUi7P9DGPBUiGXkbE" width="900" alt="Profile Readme Generator" />
-</div>
+# Hi there, I'm Jahid Hasan Milon 👋
 
-<div align="center">
-  <h1>Web Designe & Devloper</h1>
-  <h3>The best Designing the future of the web, today</h3>
-</div>
+### 🚀 Full-Stack / Django & Python Developer
+
+আইটি সেক্টরে ব্যাকএন্ড ডেভলপমেন্ট এবং স্কেলেবল ওয়েব অ্যাপ্লিকেশন তৈরিতে আগ্রহী। Django REST Framework (DRF), অ্যাসিনক্রোনাস টাস্ক প্রসেসিং এবং ক্লিন আর্কিটেকচার নিয়ে কাজ করতে পছন্দ করি।
+
+---
+
+## 🏆 Certifications & Credentials
+
+- **NSDA Level 4 Certified Developer** | *National Skills Development Authority (NSDA)*
+  - **Focus Areas:** Web Application Development, Database Architecture, Software Engineering Principles.
+  - 
+  **NSDA Level 3 Certified Developer** | *National Skills Development Authority (NSDA)*
+  - **Focus Areas:** Web Designe Application Development, Database Architecture.
+---
+
+## 🛠 Tech Stack & Tools
+
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Database & Caching:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools, DevOps & API Documentation:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 1. [LMS Project (Learning Management System)](https://github.com/devmilon/lms_project)
+> একটি পূর্ণাঙ্গ লার্নিং ম্যানেজমেন্ট সিস্টেম যেখানে কোর্স, এনরোলমেন্ট, লেসন ও ইউজার ড্যাশবোর্ড রয়েছে।
+
+- **Features:** Role-based Access Control (RBAC), JWT Authentication, Course & Enrollment System.
+- **Tech Stack:** Django, DRF, SQLite/PostgreSQL, Bootstrap.
+- **Docs:** Includes Swagger API Documentation & Postman Collection.
+
+---
+
+### 🛒 2. [E-Shop (E-Commerce Web App)](https://github.com/devmilon/eshop)
+> ই-কমার্স প্ল্যাটফর্ম যেখানে প্রোডাক্ট ক্যাটালগ, কার্ট ম্যানেজমেন্ট এবং অর্ডার প্রসেসিং ফিচার রয়েছে।
+
+- **Features:** Cart system, Order workflow, Admin dashboard.
+- **Tech Stack:** Python, Django, JavaScript, SQLite.
+
+---
+
+### 📰 3. [ClassBlog (CMS & Content Engine)](https://github.com/devmilon/classblog)
+> ডাইনামিক ব্লগ ও কন্টেন্ট ম্যানেজমেন্ট সিস্টেম।
+
+- **Features:** Media upload handling, Author dashboard, Category management.
+- **Tech Stack:** Django, HTML/CSS, JavaScript.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <img src="https://github-readme-stats.vercel.app/api?username=devmilon&show_icons=true&theme=radial" alt="devmilon's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmilon&layout=compact&theme=radial" alt="Top Languages" />
 </p>
 
-## :dart: About ##
+---
 
-Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
+## 📫 Connect With Me
 
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
-
-###
-
-###
-
-## :rocket: Main Technologies ##
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
-
-###
-
-## :white_check_mark: Connect with Me ##
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-
-## :checkered_flag: Frontend ##
-
-
-## :video_game: Backend ##
-
-
-## :memo: License ##
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/devmilon" target="_blank">Jahid Hasan</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
-*
-
-
-
-
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **Email:** your-email@example.com
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
